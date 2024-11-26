@@ -57,32 +57,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-
-    <!-- 
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-     -->
+     
 </p>
 
 <br/><br/>
@@ -92,31 +67,6 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++%20Builder-E62431.svg?style=for-the-badge&logo=C++-Builder&logoColor=white"/>
-    <!-- 
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-     -->
 </p>
 
 <br/><br/>
@@ -153,11 +103,9 @@
         <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/altairlage">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="mailto:sarabfelix1@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sarabfelix1@gmail.com">
     </a>
-
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.notion.so/sarabfelix1/Cursos-de-Tecnologia-17b72001e5dc494b9eb0b5e9dc58fcae">
         <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg">
