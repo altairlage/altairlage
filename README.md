@@ -1,6 +1,8 @@
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" > I'm Altair</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=altairlage&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <p align='center'>
     DevOps Engineer / Former Backend developer
 </p>
@@ -29,11 +31,14 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
     <img src="https://img.shields.io/badge/Semaphore-19A974?logo=ansible&logoColor=fff&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Graylog-FF3633.svg?style=for-the-badge&logo=Graylog&logoColor=white"/>
     <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
@@ -49,11 +54,10 @@
     <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
     <!-- 
     <img src=""/>
     <img src=""/>
@@ -118,6 +122,7 @@
 <br/><br/>
 
 
+<h2 align="center">📲 Github </h2>
 <p align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=altairlage&count_private=true&&theme=dark&show_icons=true&hide_border=false&include_all_commits=true" alt="Github Stats" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altairlage&theme=dark&hide_border=false" alt="Github Stats" />
@@ -144,23 +149,19 @@
 
 <h2 align="center">📲 Contact </h2>
 <p align='center'>
+    <a href="https://github.com/altairlage">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/altairlage">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <p align="center">
-        <a href="https://github.com/altairlage">
-            <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/altairlage">
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:sarabfelix1@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sarabfelix1@gmail.com">
+    </a>
 
-        <a href="mailto:sarabfelix1@gmail.com">
-            <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sarabfelix1@gmail.com">
-        </a>
-
-        <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.notion.so/sarabfelix1/Cursos-de-Tecnologia-17b72001e5dc494b9eb0b5e9dc58fcae">
-            <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg">
-        </a>
-    </p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.notion.so/sarabfelix1/Cursos-de-Tecnologia-17b72001e5dc494b9eb0b5e9dc58fcae">
+        <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg">
+    </a>
 </p>
 
 <br/><br/>
