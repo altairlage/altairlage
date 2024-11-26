@@ -19,28 +19,6 @@
 
 <br/>
 
-<p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=altairlage&count_private=true&&theme=dark&show_icons=true&hide_border=false&include_all_commits=true" alt="Github Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairlage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altairlage&theme=dark&hide_border=false" alt="Github Stats" />
-</p>
-
-<br/>
-
-<!-- <p align='center'>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altairlage&count_private=true&&theme=dark&show_icons=true&hide_border=true" />
-</p> -->
-
-<h2 align='center'>👩🏻‍💻 Code editor</h2>
-<p align='center'>
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<br/><br/>
-
 <h2 align='center'>🖥 Technologies that I use as a DevOps Engineer:</h2>
 <p align='center'>
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge"/>
@@ -139,6 +117,31 @@
 
 <br/><br/>
 
+
+<p align='center'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=altairlage&count_private=true&&theme=dark&show_icons=true&hide_border=false&include_all_commits=true" alt="Github Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altairlage&theme=dark&hide_border=false" alt="Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairlage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+</p>
+
+<br/>
+
+<!-- <p align='center'>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altairlage&count_private=true&&theme=dark&show_icons=true&hide_border=true" />
+</p> -->
+
+<h2 align='center'>👩🏻‍💻 Code editor</h2>
+<p align='center'>
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<br/><br/>
+
+
+
 <h2 align="center">📲 Contact </h2>
 <p align='center'>
 
@@ -155,7 +158,7 @@
 
         <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        
+
         <a href="https://www.notion.so/sarabfelix1/Cursos-de-Tecnologia-17b72001e5dc494b9eb0b5e9dc58fcae">
             <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg">
         </a>
