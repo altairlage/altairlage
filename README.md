@@ -149,7 +149,6 @@
         <a href="https://github.com/altairlage">
             <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/altairlage">
         </a>
-
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <a href="mailto:sarabfelix1@gmail.com">
@@ -158,15 +157,14 @@
 
         <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
         <a href="https://www.notion.so/sarabfelix1/Cursos-de-Tecnologia-17b72001e5dc494b9eb0b5e9dc58fcae">
             <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg">
         </a>
     </p>
 </p>
 
-
-  ---
+<br/><br/>
+---
 <p align="center">
   🎓 Science and Technology Student - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
   <br>
