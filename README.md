@@ -21,6 +21,9 @@
 
 <h2 align='center'>🖥 Technologies that I use as a DevOps Engineer:</h2>
 <p align='center'>
+    <a data-theme="dark" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/11ad284103ff5017a11d3b5b45e725"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+</p>
+<p align='center'>
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
